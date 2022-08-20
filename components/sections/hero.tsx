@@ -12,13 +12,19 @@ export const Hero: React.FC = () => (
         <p className="text-2xl text-gray-700 text-center">
           Im a fugitive from Chicago.  Im looking for a one armed man. 
         </p>
-        <div className="max-w-sm md:mx-auto my-6 -ml-2">
+        <div className="max-w-sm md:mx-auto my-6 -ml-4">
           <a
             className="mx-1 md:mx-2 py-1 px-2 rounded bg-blue-200 hover:bg-blue-300 text-blue-800"
             data-splitbee-event="Open Twitter"
             href="https://twitter.com/AlecCam43544378"
           >
             Twitter
+          </a>
+          <a
+            className="mx-1 md:mx-2 py-1 px-2 rounded bg-rose-400 hover:bg-rose-500 text-rose-800"
+            href="https://dev.to/fu4303"
+          >
+            Dev.to
           </a>
           <a
             className="mx-1 md:mx-2 py-1 px-2 rounded bg-fuchsia-300 hover:bg-fuchsia-400 text-fuchsia-800"
@@ -48,10 +54,10 @@ export const Hero: React.FC = () => (
             Codepen
           </a>
           <a
-            className="mx-1 md:mx-2 py-1 px-2 rounded bg-rose-400 hover:bg-rose-500 text-rose-800"
-            href="https://dev.to.io/fu4303"
+            className="mx-1 md:mx-2 py-1 px-2 rounded bg-cyan-400 hover:bg-cyan-500 text-cyan-800"
+            href="https://hashnode.dev/uvacoder"
           >
-            Dev.to
+            Hashnode
           </a>
         </div>
       </div>
