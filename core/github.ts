@@ -1,4 +1,4 @@
-const QUANTITY = 5;
+const QUANTITY = 12;
 const GRAPHQL_ENDPOINT = "https://api.github.com/graphql";
 
 export interface Repo {
