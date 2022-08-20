@@ -34,7 +34,7 @@ export const Hero: React.FC = () => (
             LinkedIn
           </a>
           <a
-            className="mx-1 md:mx-2 py-1 px-2 rounded bg-purple-300 hover:bg-purple-400 text-purple-800"
+            className="mx-1 md:mx-2 py-1 px-2 rounded bg-cyan-400 hover:bg-cyan-400 text-cyan-800"
             data-splitbee-event="Open GitHub"
             href="https://github.com/uvacoder"
           >
@@ -54,7 +54,7 @@ export const Hero: React.FC = () => (
             Codepen
           </a>
           <a
-            className="mx-1 md:mx-2 py-1 px-2 rounded bg-cyan-400 hover:bg-cyan-500 text-cyan-800"
+            className="mx-1 md:mx-2 py-1 px-2 rounded bg-purple-400 hover:bg-purple-500 text-purple-800"
             href="https://hashnode.dev/uvacoder"
           >
             Hashnode
