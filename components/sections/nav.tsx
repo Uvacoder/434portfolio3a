@@ -1,4 +1,4 @@
-import Logo from "../../assets/svgs/triangle.jpg";
+import Logo from "../../assets/svgs/logo.svg";
 import Link from "next/link";
 
 export const Nav: React.FC = () => (
