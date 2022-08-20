@@ -21,6 +21,13 @@ export const Hero: React.FC = () => (
             Twitter
           </a>
           <a
+            className="mx-1 md:mx-2 py-1 px-2 rounded bg-yellow-200 hover:bg-yellow-300 text-yellow-800"
+            data-splitbee-event="Open LinkedIn"
+            href="https://linkedin.com/en/alecbcampbell"
+          >
+            LinkedIn
+          </a>
+          <a
             className="mx-1 md:mx-2 py-1 px-2 rounded bg-purple-300 hover:bg-purple-400 text-purple-800"
             data-splitbee-event="Open GitHub"
             href="https://github.com/uvacoder"
