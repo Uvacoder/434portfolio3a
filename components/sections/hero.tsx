@@ -21,7 +21,7 @@ export const Hero: React.FC = () => (
             Twitter
           </a>
           <a
-            className="mx-1 md:mx-2 py-1 px-2 rounded bg-yellow-200 hover:bg-yellow-300 text-yellow-800"
+            className="mx-1 md:mx-2 py-1 px-2 rounded bg-fuchsia-300 hover:bg-fuchsia-400 text-fuchsia-800"
             data-splitbee-event="Open LinkedIn"
             href="https://linkedin.com/en/alecbcampbell"
           >
@@ -46,6 +46,12 @@ export const Hero: React.FC = () => (
             href="https://codepen.io/uvacoder"
           >
             Codepen
+          </a>
+          <a
+            className="mx-1 md:mx-2 py-1 px-2 rounded bg-rose-400 hover:bg-rose-500 text-rose-800"
+            href="https://dev.to.io/fu4303"
+          >
+            Dev.to
           </a>
         </div>
       </div>
