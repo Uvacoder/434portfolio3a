@@ -1,9 +1,9 @@
 {
-  "name": "timo-sh-website",
+  "name": "abcport15",
   "version": "1.0.0",
-  "description": "Personal page of Timo Lins",
-  "repository": "https://github.com/timolins/timo-sh",
-  "author": "Timo Lins <me@timo.sh>",
+  "description": "Personal page",
+  "repository": "https://github.com/uvacoder/abcport15",
+  "author": "uvacoder <freeunioncoder@gmail.com>",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
