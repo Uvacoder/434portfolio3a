@@ -10,9 +10,9 @@ export const AuthorFooter = () => (
       <div>
         <a
           className="inline-flex text-gray-500 transition-colors duration-200 hover:text-gray-600"
-          href="https://twitter.com/AlecCam43544378"
+          href="https://twitter.com/VaLandscapes"
         >
-          <span>@AlecCam43544378</span>
+          <span>@VaLandscapes</span>
         </a>
       </div>
     </div>
