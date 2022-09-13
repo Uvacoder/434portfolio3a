@@ -65,7 +65,7 @@ export const getStaticProps: GetStaticProps<AppProps> = async () => {
 export default ({ achievements, repos, projects }: AppProps) => (
   <>
     <NextSeo
-      title={"uvacoder – Code · Design · Sports"}
+      title={"uvacoder – Code · Design · Video"}
       titleTemplate={"%s"}
       openGraph={{
         images: [getOpenGraphImage("Timo Lins")],
