@@ -10,7 +10,7 @@ export const config = {
   birthday: "1979-09-22",
   githubUsername: "uvacoder",
   notionBlogTableId: "3a1f675cc61e47a3b77c858dc66b752a",
-  notionAchievementTableId: "3e46de9f7eb847e596170b59c16c6fec",
-  notionProjectTableId: "f8a1b162054a45a2b7cce9872f0ba68b",
+  notionAchievementTableId: "f8a1b162054a45a2b7cce9872f0ba68b",
+  notionProjectTableId: "5e74829f397e430ebf7c18dfacbb7ac0",
   githubToken,
 };
