@@ -12,11 +12,11 @@ export const Hero: React.FC = () => (
         <p className="text-2xl text-gray-700 text-center">
           Im a fugitive from Chicago.  Im looking for a one armed man. 
         </p>
-        <div className="max-w-md md:mx-auto my-6 justify-content: center">
+        <div className="max-w-xl md:mx-auto my-6 justify-content: center">
           <a
             className="mx-1 md:mx-2 py-1 px-2 rounded bg-blue-200 hover:bg-blue-300 text-blue-800"
             data-splitbee-event="Open Twitter"
-            href="https://twitter.com/AlecCam43544378"
+            href="https://twitter.com/VaLandscapes"
           >
             Twitter
           </a>
@@ -48,13 +48,13 @@ export const Hero: React.FC = () => (
             Dribbble
           </a>
           <a
-            className="mx-1 md:mx-2 py-1 px-2 rounded bg-green-200 hover:bg-green-300 text-green-800"
+            className="mx-1 md:mx-2 py-1 px-2 rounded bg-emerald-200 hover:bg-emerald-300 text-emerald-800"
             href="https://codepen.io/uvacoder"
           >
             Codepen
           </a>
           <a
-            className="mx-1 md:mx-2 py-1 px-2 rounded bg-purple-400 hover:bg-purple-500 text-purple-800"
+            className="mx-1 md:mx-2 py-1 px-2 rounded bg-violet-400 hover:bg-violet-500 text-violet-800"
             href="https://hashnode.dev/uvacoder"
           >
             Hashnode
