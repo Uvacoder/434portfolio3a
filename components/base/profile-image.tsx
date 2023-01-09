@@ -13,7 +13,7 @@ export const ProfileImage: React.FC<{
   >
     <Image
       className="rounded-full"
-      src={"/IMG_2622.WEBP"}
+      src={"/logo-a-red.jpg"}
       alt="Portrait photo of me"
       height={size}
       quality={85}
