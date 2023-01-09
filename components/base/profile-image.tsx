@@ -2,7 +2,7 @@ import Image from "next/image";
 
 export const ProfileImage: React.FC<{
   size?: number;
-}> = ({ size = 256 }) => (
+}> = ({ size = 128 }) => (
   <div
     className="relative rounded-full"
     style={{
