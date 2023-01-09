@@ -8,11 +8,12 @@ export const ProfileImage: React.FC<{
     style={{
       width: size,
       height: size,
+      backgroundColor: "#FCC098",
     }}
   >
     <Image
       className="rounded-full"
-      src={"/logo-a-red.jpg"}
+      src={"/logo-red-a.jpg"}
       alt="Portrait photo of me"
       height={size}
       quality={85}
