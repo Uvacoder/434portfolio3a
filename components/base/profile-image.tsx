@@ -8,7 +8,6 @@ export const ProfileImage: React.FC<{
     style={{
       width: size,
       height: size,
-      backgroundColor: "#FCC098",
     }}
   >
     <Image
