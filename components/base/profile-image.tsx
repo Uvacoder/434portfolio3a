@@ -13,7 +13,7 @@ export const ProfileImage: React.FC<{
   >
     <Image
       className="rounded-full"
-      src={"/logo-red-a.jpg"}
+      src={"/baby-pig-sitting.jpg"}
       alt="Portrait photo of me"
       height={size}
       quality={85}
