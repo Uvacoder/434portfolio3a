@@ -71,7 +71,7 @@ export default ({ achievements, repos, projects }: AppProps) => (
         images: [getOpenGraphImage("Timo Lins")],
       }}
       twitter={{
-        handle: "@AlecCam43544378",
+        handle: "@VaLandscapes",
         cardType: "summary_large_image",
       }}
       description="Hey I'm Alec! I mess around learning code and other stuff."
