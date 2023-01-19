@@ -3,13 +3,13 @@ import { Nav } from "./nav";
 import { ProfileImage } from "../base/profile-image";
 
 export const Hero: React.FC = () => (
-  <section className="bg-sky-100">
+  <section className="bg-gray-100">
     <Nav />
     <div className="container">
       <div className="flex flex-col items-center my-16">
         <ProfileImage />
         <h1 className="text-4xl font-bold mt-2">Hey, I'm Dr Kimble!</h1>
-        <p className="text-2xl text-sky-700 text-center">
+        <p className="text-2xl text-gray-700 text-center">
           Im a fugitive from Chicago.  Im looking for a one armed man. 
         </p>
         <div className="max-w-3xl md:mx-auto my-6 justify-content: center">
