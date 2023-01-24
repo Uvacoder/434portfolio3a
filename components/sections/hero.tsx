@@ -12,7 +12,7 @@ export const Hero: React.FC = () => (
         <p className="text-2xl text-gray-700 text-center">
           Im a jack of all trades, master of few. 
         </p>
-        <div className="grid grid-cols-6 max-w-3xl md:mx-auto my-6 mx-6 justify-content: center">
+        <div className="grid grid-cols-6 max-w-3xl md:mx-auto my-6 mx-6 p-6 justify-content: center">
           <a
             className="mx-1 md:mx-2 py-1 px-2 rounded bg-blue-200 hover:bg-blue-300 text-blue-800"
             data-splitbee-event="Open Twitter"
