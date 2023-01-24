@@ -8,9 +8,9 @@ export const Hero: React.FC = () => (
     <div className="container">
       <div className="flex flex-col items-center my-16">
         <ProfileImage />
-        <h1 className="text-4xl font-bold mt-2">Hey, I'm Dr Kimble!</h1>
+        <h1 className="text-4xl font-bold mt-2">Hey, I'm Alec Campbell!</h1>
         <p className="text-2xl text-gray-700 text-center">
-          Im a fugitive from Chicago.  Im looking for a one armed man. 
+          Im a jack of all trades, master of few. 
         </p>
         <div className="max-w-3xl md:mx-auto my-6 justify-content: center">
           <a
@@ -22,7 +22,7 @@ export const Hero: React.FC = () => (
           </a>
           <a
             className="mx-1 md:mx-2 py-1 px-2 rounded bg-rose-400 hover:bg-rose-500 text-rose-800"
-            href="https://dev.to/fu4303"
+            href="https://dev.to/uvacoder"
           >
             Dev.to
           </a>
