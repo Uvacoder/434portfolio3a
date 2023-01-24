@@ -1,4 +1,8 @@
-# uvacoderportfolio
+# uvacoder434
+
+<p align="center">
+  <img src="screenshot-uvacoder434.png" alt="screenshot">
+</p>
 
 This source of my personal website. It's built with following technologies:
 * [React](https://reactjs.org/) – My frontend library of choice.
