@@ -6,7 +6,7 @@ export const Hero: React.FC = () => (
   <section className="bg-gray-100">
     <Nav />
     <div className="container">
-      <div className="flex flex-col items-center my-16">
+      <div className="grid grid-cols-6 items-center my-16">
         <ProfileImage />
         <h1 className="text-4xl font-bold mt-2">Hey, I'm Alec Campbell!</h1>
         <p className="text-2xl text-gray-700 text-center">
