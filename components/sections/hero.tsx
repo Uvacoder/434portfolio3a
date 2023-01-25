@@ -67,15 +67,15 @@ export const Hero: React.FC = () => (
           </a>https://www.polywork.com/uvacoder
           <a
             className="mx-1 md:mx-2 py-1 px-2 rounded bg-fuchsia-400 hover:bg-fuchsia-500 text-fuchsia-800"
-            href="https://hashnode.dev/uvacoder"
+            href="https://stackblitz.com/@Uvacoder"
           >
-            Hashnode
+            Stackblitz
           </a>
           <a
             className="mx-1 md:mx-2 py-1 px-2 rounded bg-yellow-400 hover:bg-yellow-500 text-yellow-800"
-            href="https://hashnode.dev/uvacoder"
+            href="https://www.figma.com/@uvacoder"
           >
-            Hashnode
+            Figma
           </a>
         </div>
       </div>
