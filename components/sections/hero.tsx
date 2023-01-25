@@ -21,7 +21,7 @@ export const Hero: React.FC = () => (
             Twitter
           </a>
           <a
-            className="mx-1 md:mx-2 py-1 px-2 rounded bg-rose-400 hover:bg-rose-500 text-rose-800"
+            className="mx-1 md:mx-2 py-1 px-2 rounded bg-rose-400 hover:bg-rose-500 text-rose-800 justify-content: center"
             href="https://dev.to/uvacoder"
           >
             Dev.to
