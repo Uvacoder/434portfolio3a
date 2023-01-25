@@ -1,8 +1,8 @@
 {
-  "name": "abcport15",
+  "name": "uvacoder434",
   "version": "1.0.0",
   "description": "Personal page",
-  "repository": "https://github.com/uvacoder/abcport15",
+  "repository": "https://github.com/uvacoder/uvacoder434",
   "author": "uvacoder <freeunioncoder@gmail.com>",
   "scripts": {
     "dev": "next dev",
