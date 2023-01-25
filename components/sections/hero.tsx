@@ -42,7 +42,7 @@ export const Hero: React.FC = () => (
           </a>
           <a
             className="mx-1 md:mx-2 py-1 px-2 rounded bg-pink-200 hover:bg-pink-300 text-pink-800"
-            data-https://stackblitz.com/@Uvacoder
+            data-splitbee-event="Open Dribbble"
             href="https://dribbble.com/uvacoder"
           >
             Dribbble
@@ -64,7 +64,7 @@ export const Hero: React.FC = () => (
             href="https://www.polywork.com/uvacoder"
           >
             Polywork
-          </a>https://www.polywork.com/uvacoder
+          </a>
           <a
             className="mx-1 md:mx-2 py-1 px-2 rounded bg-fuchsia-400 hover:bg-fuchsia-500 text-fuchsia-800"
             href="https://stackblitz.com/@Uvacoder"
