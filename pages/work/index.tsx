@@ -26,7 +26,7 @@ export default ({ projects }: AppProps) => (
   <>
     <Nav />
     <NextSeo
-      title={"Work ~ uvacoder"}
+      title={"Work ~ Timo Lins"}
       description="A collection of some of my work I've made in the past. Including web apps, landing page designs and videos."
     />
     <Work projects={projects} />
