@@ -42,7 +42,7 @@ export const Hero: React.FC = () => (
           </a>
           <a
             className="mx-1 md:mx-2 py-1 px-2 rounded bg-pink-200 hover:bg-pink-300 text-pink-800"
-            data-splitbee-event="Open Dribbble"
+            data-https://stackblitz.com/@Uvacoder
             href="https://dribbble.com/uvacoder"
           >
             Dribbble
@@ -55,6 +55,24 @@ export const Hero: React.FC = () => (
           </a>
           <a
             className="mx-1 md:mx-2 py-1 px-2 rounded bg-violet-400 hover:bg-violet-500 text-violet-800"
+            href="https://hashnode.dev/uvacoder"
+          >
+            Hashnode
+          </a>
+          <a
+            className="mx-1 md:mx-2 py-1 px-2 rounded bg-teal-400 hover:bg-teal-500 text-teal-800"
+            href="https://www.polywork.com/uvacoder"
+          >
+            Polywork
+          </a>https://www.polywork.com/uvacoder
+          <a
+            className="mx-1 md:mx-2 py-1 px-2 rounded bg-fuchsia-400 hover:bg-fuchsia-500 text-fuchsia-800"
+            href="https://hashnode.dev/uvacoder"
+          >
+            Hashnode
+          </a>
+          <a
+            className="mx-1 md:mx-2 py-1 px-2 rounded bg-yellow-400 hover:bg-yellow-500 text-yellow-800"
             href="https://hashnode.dev/uvacoder"
           >
             Hashnode
