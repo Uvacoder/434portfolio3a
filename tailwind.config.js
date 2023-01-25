@@ -1,7 +1,7 @@
 const { boxShadow } = require("tailwindcss/defaultTheme");
 
 module.exports = {
-  purge: [
+  content: [
     "./pages/*.tsx",
     "./pages/**/*.tsx",
     "./components/*.tsx",
