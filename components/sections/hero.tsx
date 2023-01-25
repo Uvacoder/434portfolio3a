@@ -77,6 +77,30 @@ export const Hero: React.FC = () => (
           >
             Figma
           </a>
+          <a
+            className="mx-1 md:mx-2 py-1 px-2 rounded bg-indigo-400 hover:bg-indigo-500 text-indigo-800"
+            href="https://substack.com/profile/106268192-alec-campbell"
+          >
+            Substack
+          </a>
+          <a
+            className="mx-1 md:mx-2 py-1 px-2 rounded bg-red-400 hover:bg-red-500 text-red-800"
+            href="https://indieweb.social/@uvacoder"
+          >
+            Mastadon
+          </a>
+          <a
+            className="mx-1 md:mx-2 py-1 px-2 rounded bg-sky-600 hover:bg-sky-500 text-sky-800"
+            href="https://codesandbox.io/u/Uvacoder"
+          >
+            Codesndbox
+          </a>
+          <a
+            className="mx-1 md:mx-2 py-1 px-2 rounded bg-pink-200 hover:bg-pink-300 text-pink-400"
+            href="https://uvacoder.gumroad.com/"
+          >
+            Gumroad
+          </a>
         </div>
       </div>
     </div>
