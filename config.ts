@@ -11,6 +11,6 @@ export const config = {
   githubUsername: "uvacoder",
   notionBlogTableId: "3a1f675cc61e47a3b77c858dc66b752a",
   notionAchievementTableId: "f8a1b162054a45a2b7cce9872f0ba68b",
-  notionProjectTableId: "d76f89a2d03741bc875cbb7ab8d71f1a",
+  notionProjectTableId: "36e722b408c74c4dbc34be5863fec243",
   githubToken,
 };
