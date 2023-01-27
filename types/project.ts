@@ -1,4 +1,4 @@
-export type ProjectType = "code" | "design" | "video";
+export type ProjectType = "tool" | "collection" | "homepage";
 
 export interface Project {
   id: string;
