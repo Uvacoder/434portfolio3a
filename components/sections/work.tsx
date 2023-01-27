@@ -16,27 +16,27 @@ const TypeBadge: React.FC<{ type: ProjectType; compact?: boolean }> = ({
   const iconClassName = "mr-1";
 
   switch (type) {
-    case "code":
+    case "tool":
       return compact ? (
         <CodeIcon className={iconClassName} aria-label="Code" />
       ) : (
         <div className={`${tagClassName} bg-green-200 text-green-800`}>
-          Code
+          Tool
         </div>
       );
-    case "design":
+    case "collection":
       return compact ? (
         <DesignIcon className={iconClassName} aria-label="Design" />
       ) : (
         <div className={`${tagClassName} bg-orange-200 text-red-700`}>
-          Design
+          Collection
         </div>
       );
-    case "video":
+    case "homepage":
       return compact ? (
         <VideoIcon className={iconClassName} aria-label="Video" />
       ) : (
-        <div className={`${tagClassName} bg-blue-200 text-blue-700`}>Video</div>
+        <div className={`${tagClassName} bg-blue-200 text-blue-700`}>Homepage</div>
       );
   }
 };
