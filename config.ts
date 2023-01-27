@@ -6,7 +6,7 @@ if (!githubToken) {
 
 export const config = {
   name: "uvacoder",
-  subtitle: "Code · Design · Video",
+  subtitle: "Tool · Collection · Homepage",
   birthday: "1979-09-22",
   githubUsername: "uvacoder",
   notionBlogTableId: "3a1f675cc61e47a3b77c858dc66b752a",
