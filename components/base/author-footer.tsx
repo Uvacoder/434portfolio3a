@@ -6,7 +6,7 @@ export const AuthorFooter = () => (
     <ProfileImage size={56} />
     <div>
       <div className="font-semibold">uvacoder</div>
-      <div>Developer + Designer</div>
+      <div>Master Tinkerer</div>
       <div>
         <a
           className="inline-flex text-gray-500 transition-colors duration-200 hover:text-gray-600"
