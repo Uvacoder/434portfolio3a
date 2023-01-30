@@ -8,26 +8,35 @@ export const Hero: React.FC = () => (
     <div className="container">
       <div className="flex flex-col items-center my-16">
         <ProfileImage />
-        <h1 className="text-4xl font-bold mt-2">Hey, I'm Alec Campbell!</h1>
-        <p className="text-2xl text-gray-700 text-center">
-          Im a jack of all trades, master of few. 
+        <h1 className="text-5xl font-bold m-4">Hey,  I'm Alec Campbell</h1>
+        <p className="text-2xl text-gray-600 text-center">
+         “The Internet is the first thing that humanity has built, 
         </p>
-        <div className="grid grid-cols-6 gap-4 auto-cols-max max-w-3xl md:mx-auto p-6 justify-content: center">
+        <p className="text-2xl text-gray-600 text-center">
+          that humanity doesn't understand,
+        </p>  
+        <p className="text-2xl text-gray-600 text-center">
+          the largest experiment in anarchy that we have ever had.” 
+        </p>                                
+        <p className="text-xl text-gray-500 text-right m-4">             
+          ― Eric Schmidt
+        </p>
+        <div className="grid grid-cols-6 gap-4 auto-cols-auto max-w-3xl md:mx-auto p-6 justify-content: center">
           <a
-            className="mx-1 md:mx-2 py-1 px-2 rounded bg-blue-200 hover:bg-blue-300 text-blue-800"
+            className="grow mx-1 md:mx-2 py-1 px-2 rounded bg-blue-200 hover:bg-blue-300 text-blue-800"
             data-splitbee-event="Open Twitter"
             href="https://twitter.com/VaLandscapes"
           >
             Twitter
           </a>
           <a
-            className="mx-1 md:mx-2 py-1 px-2 rounded bg-rose-400 hover:bg-rose-500 text-rose-800 justify-content: center"
+            className="grow mx-1 md:mx-2 py-1 px-2 rounded bg-rose-400 hover:bg-rose-500 text-rose-800 justify-content: center"
             href="https://dev.to/uvacoder"
           >
             Dev.to
           </a>
           <a
-            className="mx-1 md:mx-2 py-1 px-2 rounded bg-fuchsia-300 hover:bg-fuchsia-400 text-fuchsia-800"
+            className="grow mx-1 md:mx-2 py-1 px-2 rounded bg-fuchsia-300 hover:bg-fuchsia-400 text-fuchsia-800"
             data-splitbee-event="Open LinkedIn"
             href="https://linkedin.com/en/alecbcampbell"
           >
